@@ -32,7 +32,7 @@ const Home = () => (
           className="card"
         >
           <h3>Examples &rarr;</h3>
-          <p>Discover and deploy boilerplate example Next.js projects.</p>
+          <p>Discover and deploy boilerplate example Next.js.</p>
         </a>
 
         <a
